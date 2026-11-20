@@ -15,7 +15,7 @@ jobs:
         image: mysql:8.0
         env:
           MYSQL_ROOT_PASSWORD: testpassword
-          MYSQL_DATABASE: juegos
+          MYSQL_DATABASE: juegos_test
         ports:
           - 3306:3306
         options: >-
