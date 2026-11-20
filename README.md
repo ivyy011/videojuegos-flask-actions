@@ -1,3 +1,9 @@
+
+[![CI](https://github.com/ivyy011/videojuegos-flask-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/ivyy011/videojuegos-flask-actions/actions/workflows/ci.yml)
+
+[![Coverage](https://codecov.io/gh/ivyy011/videojuegos-flask-actions/branch/main/graph/badge.svg)](https://codecov.io/gh/ivyy011/videojuegos-flask-actions)
+
+
 \# Pruebas unitarias de la microaplicación de videojuegos
 
 
